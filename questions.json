@@ -1,0 +1,58 @@
+{
+    "General Knowledge": [
+        {
+            "question": "What is the capital of France?",
+            "options": [
+                "Paris",
+                "London",
+                "Berlin",
+                "Rome"
+            ],
+            "answer": "Paris"
+        },
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Venus"
+            ],
+            "answer": "Mars"
+        }
+    ],
+    "Science": [
+        {
+            "question": "What is the chemical symbol for water?",
+            "options": [
+                "H2O",
+                "O2",
+                "CO2",
+                "H2"
+            ],
+            "answer": "H2O"
+        },
+        {
+            "question": "What gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "answer": "Carbon Dioxide"
+        }
+    ],
+    "Programming": [
+        {
+            "question": "What does 'HTML' stands for?",
+            "options": [
+                "High Transfer Machine Language",
+                "Hyperlink and Text Management Language",
+                "Hyper Text Markup Language",
+                "Home Tool Markup Language"
+            ],
+            "answer": "Hyper Text Markup Language"
+        }
+    ]
+}
