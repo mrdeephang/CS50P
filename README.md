@@ -13,7 +13,7 @@ requirements.txt - lists any needed packages (only standard libraries are used h
 README.md - this file with project information.
 
 **Installation**
-You just need Python 3 to run this. No external libraries are required (everything uses Python’s built-in modules). If you use a virtual environment, you don’t need to install anything extra — the requirements.txt file is basically empty.
+You just need Python to run this. No external libraries are required (everything uses Python’s built-in modules). If you use a virtual environment, you don’t need to install anything extra — the requirements.txt file is basically empty.
 
 **How to Run**
 Open a terminal or command prompt.
