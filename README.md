@@ -23,6 +23,6 @@ python quiz.py
 pytest test_project.py #test whether your project’s features and functions work correctly.
 
 **Copyright**
-© 2024 Deephang Thegim. All rights reserved.
+© 2025 Deephang Thegim. All rights reserved.
 This project is for educational purposes as part of CS50’s Introduction to Programming with Python.
 You are free to use, modify, and share this project with credit. Commercial use is not allowed without permission.
